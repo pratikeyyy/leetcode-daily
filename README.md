@@ -4,6 +4,8 @@ Daily LeetCode solutions in Python by [pratikey](https://leetcode.com/u/pratikey
 
 ## 2026-11-19
 - [125. Valid Palindrome (Easy)](https://leetcode.com/problems/valid-palindrome/) — Accepted 492/492, 8 ms — [solution](2026-11-19/125-valid-palindrome.py) | [submission](https://leetcode.com/submissions/detail/2199038625/)
+- [2567. Minimum Score by Changing Two Elements (Medium)](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) — Accepted 70/70, 38 ms — [solution](2026-11-19/2567-minimum-score-by-changing-two-elements.py) | [submission](https://leetcode.com/submissions/detail/2199068496/)
+- [20. Valid Parentheses (Easy)](https://leetcode.com/problems/valid-parentheses/) — Accepted 103/103, 1 ms — [solution](2026-11-19/20-valid-parentheses.py) | [submission](https://leetcode.com/submissions/detail/2199068575/)
 
 ## 2026-11-18
 - [242. Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/) — Accepted 56/56, 5 ms — [solution](2026-11-18/242-valid-anagram.py) | [submission](https://leetcode.com/submissions/detail/2198500445/)
