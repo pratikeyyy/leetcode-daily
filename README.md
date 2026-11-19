@@ -2,6 +2,9 @@
 
 Daily LeetCode solutions in Python by [pratikey](https://leetcode.com/u/pratikey/) — solved and submitted daily on LeetCode, then pushed here.
 
+## 2026-11-19
+- [125. Valid Palindrome (Easy)](https://leetcode.com/problems/valid-palindrome/) — Accepted 492/492, 8 ms — [solution](2026-11-19/125-valid-palindrome.py) | [submission](https://leetcode.com/submissions/detail/2199038625/)
+
 ## 2026-11-18
 - [242. Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/) — Accepted 56/56, 5 ms — [solution](2026-11-18/242-valid-anagram.py) | [submission](https://leetcode.com/submissions/detail/2198500445/)
 
