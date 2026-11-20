@@ -2,6 +2,10 @@
 
 Daily LeetCode solutions in Python by [pratikey](https://leetcode.com/u/pratikey/) — solved and submitted daily on LeetCode, then pushed here.
 
+## 2026-11-20
+- [3041. Maximize Consecutive Elements in an Array After Modification (Hard)](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) — Accepted 668/668, 652 ms — [solution](2026-11-20/3041-maximize-consecutive-elements-in-an-array-after-modification.py) | [submission](https://leetcode.com/submissions/detail/2199717166/)
+- [121. Best Time to Buy and Sell Stock (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) — Accepted 213/213, 19 ms — [solution](2026-11-20/121-best-time-to-buy-and-sell-stock.py) | [submission](https://leetcode.com/submissions/detail/2199717210/)
+
 ## 2026-11-19
 - [125. Valid Palindrome (Easy)](https://leetcode.com/problems/valid-palindrome/) — Accepted 492/492, 8 ms — [solution](2026-11-19/125-valid-palindrome.py) | [submission](https://leetcode.com/submissions/detail/2199038625/)
 - [2567. Minimum Score by Changing Two Elements (Medium)](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) — Accepted 70/70, 38 ms — [solution](2026-11-19/2567-minimum-score-by-changing-two-elements.py) | [submission](https://leetcode.com/submissions/detail/2199068496/)
