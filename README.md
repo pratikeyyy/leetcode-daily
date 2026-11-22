@@ -5,6 +5,7 @@ Daily LeetCode solutions in Python by [pratikey](https://leetcode.com/u/pratikey
 ## 2026-11-22
 - [2124. Check if All A's Appears Before All B's (Easy)](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) — Accepted 216/216, 0 ms — [solution](2026-11-22/2124-check-if-all-as-appears-before-all-bs.py) | [submission](https://leetcode.com/submissions/detail/2201007884/)
 - [206. Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/) — Accepted 28/28, 0 ms — [solution](2026-11-22/206-reverse-linked-list.py) | [submission](https://leetcode.com/submissions/detail/2201008101/)
+- [70. Climbing Stairs (Easy)](https://leetcode.com/problems/climbing-stairs/) — Accepted 45/45, 0 ms — [solution](2026-11-22/70-climbing-stairs.py) | [submission](https://leetcode.com/submissions/detail/2201090498/)
 
 ## 2026-11-21
 - [3331. Find Subtree Sizes After Changes (Medium)](https://leetcode.com/problems/find-subtree-sizes-after-changes/) — Accepted 632/632, 1001 ms — [solution](2026-11-21/3331-find-subtree-sizes-after-changes.py) | [submission](https://leetcode.com/submissions/detail/2200309647/)
