@@ -2,6 +2,10 @@
 
 Daily LeetCode solutions in Python by [pratikey](https://leetcode.com/u/pratikey/) — solved and submitted daily on LeetCode, then pushed here.
 
+## 2026-11-22
+- [2124. Check if All A's Appears Before All B's (Easy)](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) — Accepted 216/216, 0 ms — [solution](2026-11-22/2124-check-if-all-as-appears-before-all-bs.py) | [submission](https://leetcode.com/submissions/detail/2201007884/)
+- [206. Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/) — Accepted 28/28, 0 ms — [solution](2026-11-22/206-reverse-linked-list.py) | [submission](https://leetcode.com/submissions/detail/2201008101/)
+
 ## 2026-11-21
 - [3331. Find Subtree Sizes After Changes (Medium)](https://leetcode.com/problems/find-subtree-sizes-after-changes/) — Accepted 632/632, 1001 ms — [solution](2026-11-21/3331-find-subtree-sizes-after-changes.py) | [submission](https://leetcode.com/submissions/detail/2200309647/)
 - [53. Maximum Subarray (Easy)](https://leetcode.com/problems/maximum-subarray/) — Accepted 210/210, 18 ms — [solution](2026-11-21/53-maximum-subarray.py) | [submission](https://leetcode.com/submissions/detail/2200309747/)
