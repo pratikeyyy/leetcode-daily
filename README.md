@@ -2,6 +2,10 @@
 
 Daily LeetCode solutions in Python by [pratikey](https://leetcode.com/u/pratikey/) — solved and submitted daily on LeetCode, then pushed here.
 
+## 2026-11-23
+- [1352. Product of the Last K Numbers (Medium)](https://leetcode.com/problems/product-of-the-last-k-numbers/) — Accepted 35/35, 116 ms — [solution](2026-11-23/1352-product-of-the-last-k-numbers.py) | [submission](https://leetcode.com/submissions/detail/2201631623/)
+- [141. Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/) — Accepted 29/29, 49 ms — [solution](2026-11-23/141-linked-list-cycle.py) | [submission](https://leetcode.com/submissions/detail/2201631716/)
+
 ## 2026-11-22
 - [2124. Check if All A's Appears Before All B's (Easy)](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) — Accepted 216/216, 0 ms — [solution](2026-11-22/2124-check-if-all-as-appears-before-all-bs.py) | [submission](https://leetcode.com/submissions/detail/2201007884/)
 - [206. Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/) — Accepted 28/28, 0 ms — [solution](2026-11-22/206-reverse-linked-list.py) | [submission](https://leetcode.com/submissions/detail/2201008101/)
