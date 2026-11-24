@@ -2,6 +2,10 @@
 
 Daily LeetCode solutions in Python by [pratikey](https://leetcode.com/u/pratikey/) — solved and submitted daily on LeetCode, then pushed here.
 
+## 2026-11-24
+- [3411. Maximum Subarray With Equal Products (Easy)](https://leetcode.com/problems/maximum-subarray-with-equal-products/) — Accepted 865/865, 32 ms — [solution](2026-11-24/3411-maximum-subarray-with-equal-products.py) | [submission](https://leetcode.com/submissions/detail/2202300672/)
+- [21. Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists/) — Accepted 208/208, 1 ms — [solution](2026-11-24/21-merge-two-sorted-lists.py) | [submission](https://leetcode.com/submissions/detail/2202300812/)
+
 ## 2026-11-23
 - [1352. Product of the Last K Numbers (Medium)](https://leetcode.com/problems/product-of-the-last-k-numbers/) — Accepted 35/35, 116 ms — [solution](2026-11-23/1352-product-of-the-last-k-numbers.py) | [submission](https://leetcode.com/submissions/detail/2201631623/)
 - [141. Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/) — Accepted 29/29, 49 ms — [solution](2026-11-23/141-linked-list-cycle.py) | [submission](https://leetcode.com/submissions/detail/2201631716/)
