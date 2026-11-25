@@ -2,6 +2,11 @@
 
 Daily LeetCode solutions in Python by [pratikey](https://leetcode.com/u/pratikey/) — solved and submitted daily on LeetCode, then pushed here.
 
+## 2026-11-25
+- [3934. Smallest Unique Subarray (Hard)](https://leetcode.com/problems/smallest-unique-subarray/) — Accepted 719/719, 2208 ms — [solution](2026-11-25/3934-smallest-unique-subarray.py) | [submission](https://leetcode.com/submissions/detail/2202956788/)
+- [104. Maximum Depth of Binary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-binary-tree/) — Accepted 40/40, 2 ms — [solution](2026-11-25/104-maximum-depth-of-binary-tree.py) | [submission](https://leetcode.com/submissions/detail/2202957190/)
+- [217. Contains Duplicate (Easy)](https://leetcode.com/problems/contains-duplicate/) — Accepted 80/80, 16 ms — [solution](2026-11-25/217-contains-duplicate.py) | [submission](https://leetcode.com/submissions/detail/2202956897/) (already solved 2026-11-17; re-submitted today, solved count unchanged)
+
 ## 2026-11-24
 - [3411. Maximum Subarray With Equal Products (Easy)](https://leetcode.com/problems/maximum-subarray-with-equal-products/) — Accepted 865/865, 32 ms — [solution](2026-11-24/3411-maximum-subarray-with-equal-products.py) | [submission](https://leetcode.com/submissions/detail/2202300672/)
 - [21. Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists/) — Accepted 208/208, 1 ms — [solution](2026-11-24/21-merge-two-sorted-lists.py) | [submission](https://leetcode.com/submissions/detail/2202300812/)
