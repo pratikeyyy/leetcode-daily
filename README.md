@@ -2,6 +2,10 @@
 
 Daily LeetCode solutions in Python by [pratikey](https://leetcode.com/u/pratikey/) — solved and submitted daily on LeetCode, then pushed here.
 
+## 2026-11-26
+- [3360. Stone Removal Game (Easy)](https://leetcode.com/problems/stone-removal-game/) — Accepted 53/53, 0 ms — [solution](2026-11-26/3360-stone-removal-game.py) | [submission](https://leetcode.com/submissions/detail/2203607035/)
+- [226. Invert Binary Tree (Easy)](https://leetcode.com/problems/invert-binary-tree/) — Accepted 77/77, 0 ms — [solution](2026-11-26/226-invert-binary-tree.py) | [submission](https://leetcode.com/submissions/detail/2203607813/)
+
 ## 2026-11-25
 - [3934. Smallest Unique Subarray (Hard)](https://leetcode.com/problems/smallest-unique-subarray/) — Accepted 719/719, 2208 ms — [solution](2026-11-25/3934-smallest-unique-subarray.py) | [submission](https://leetcode.com/submissions/detail/2202956788/)
 - [104. Maximum Depth of Binary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-binary-tree/) — Accepted 40/40, 2 ms — [solution](2026-11-25/104-maximum-depth-of-binary-tree.py) | [submission](https://leetcode.com/submissions/detail/2202957190/)
