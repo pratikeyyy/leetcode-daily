@@ -3,6 +3,7 @@
 Daily LeetCode solutions in Python by [pratikey](https://leetcode.com/u/pratikey/) — solved and submitted daily on LeetCode, then pushed here.
 
 ## 2026-11-26
+- [169. Majority Element (Easy)](https://leetcode.com/problems/majority-element/) — Accepted 59/59, 10 ms — [solution](2026-11-26/169-majority-element.py) | [submission](https://leetcode.com/submissions/detail/2204030372/)
 - [136. Single Number (Easy)](https://leetcode.com/problems/single-number/) — Accepted 61/61, 1 ms — [solution](2026-11-26/136-single-number.py) | [submission](https://leetcode.com/submissions/detail/2203831300/)
 - [3360. Stone Removal Game (Easy)](https://leetcode.com/problems/stone-removal-game/) — Accepted 53/53, 0 ms — [solution](2026-11-26/3360-stone-removal-game.py) | [submission](https://leetcode.com/submissions/detail/2203607035/)
 - [226. Invert Binary Tree (Easy)](https://leetcode.com/problems/invert-binary-tree/) — Accepted 77/77, 0 ms — [solution](2026-11-26/226-invert-binary-tree.py) | [submission](https://leetcode.com/submissions/detail/2203607813/)
