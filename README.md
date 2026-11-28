@@ -2,6 +2,10 @@
 
 Daily LeetCode solutions in Python by [pratikey](https://leetcode.com/u/pratikey/) — solved and submitted daily on LeetCode, then pushed here.
 
+## 2026-11-28
+- [3947. Maximum Number of Items From Sale II (Medium)](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/) — Accepted 875/875, 265 ms — [solution](2026-11-28/3947-maximum-number-of-items-from-sale-ii.py) | [submission](https://leetcode.com/submissions/detail/2204888944/)
+- [412. Fizz Buzz (Easy)](https://leetcode.com/problems/fizz-buzz/) — Accepted 8/8, 0 ms — [solution](2026-11-28/412-fizz-buzz.py) | [submission](https://leetcode.com/submissions/detail/2204889023/)
+
 ## 2026-11-27
 - [3946. Maximum Number of Items From Sale I (Medium)](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) — Accepted 764/764, 1490 ms — [solution](2026-11-27/3946-maximum-number-of-items-from-sale-i.py) | [submission](https://leetcode.com/submissions/detail/2204289574/)
 - [344. Reverse String (Easy)](https://leetcode.com/problems/reverse-string/) — Accepted 477/477, 1 ms — [solution](2026-11-27/344-reverse-string.py) | [submission](https://leetcode.com/submissions/detail/2204289699/)
